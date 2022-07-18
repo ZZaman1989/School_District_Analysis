@@ -52,7 +52,7 @@ You will earn a perfect score for Deliverable 1 by completing all requirements b
 
 **Code and Image**
 
-![name-of-you-image]https://github.com/ZZaman1989/School_District_Analysis/blob/main/Resources/Deliverable%20%231%20-%20School%20name%2C%20grade%2C%20reading%20score.jpg 
+![name-of-you-image](https://github.com/ZZaman1989/School_District_Analysis/blob/main/Resources/Deliverable%20%231%20-%20School%20name%2C%20grade%2C%20reading%20score.jpg)
 
 **4. Logical and comparison operators are used to retrieve all the rows with the **"math_score"** column for Thomas High School ninth graders from the `student_data_df`.**
 
@@ -62,13 +62,13 @@ You will earn a perfect score for Deliverable 1 by completing all requirements b
 
 **Code and Image**
 
-![name-of-you-image]https://github.com/ZZaman1989/School_District_Analysis/blob/main/Resources/Deliverable%20%231%20-%20School%20name%2C%20grade%2C%20math%20score.jpg
+![name-of-you-image](https://github.com/ZZaman1989/School_District_Analysis/blob/main/Resources/Deliverable%20%231%20-%20School%20name%2C%20grade%2C%20math%20score.jpg)
 
 **Final Code - Deliverable 1**
 
 **Code and Image**
 
-![name-of-you-image]https://github.com/ZZaman1989/School_District_Analysis/blob/main/Resources/Deliverable%20%231%20-Final%20Code.jpg
+![name-of-you-image](https://github.com/ZZaman1989/School_District_Analysis/blob/main/Resources/Deliverable%20%231%20-Final%20Code.jpg)
 
 
 
@@ -104,7 +104,7 @@ Image with code below.
 
 **Code and Image**
 
-![name-of-you-image]https://github.com/ZZaman1989/School_District_Analysis/blob/main/Resources/Deliverable%20%232%20-%20District%20Summary%20DataFrame.jpg
+![name-of-you-image](https://github.com/ZZaman1989/School_District_Analysis/blob/main/Resources/Deliverable%20%232%20-%20District%20Summary%20DataFrame.jpg)
 
 **2. The school summary DataFrame.**
 
@@ -112,7 +112,7 @@ Image with code below.
 
 **Code and Image**
 
-![name-of-you-image]https://github.com/ZZaman1989/School_District_Analysis/blob/main/Resources/Deliverable%20%232%20-%20School%20Summary%20DataFrame.jpg
+![name-of-you-image](https://github.com/ZZaman1989/School_District_Analysis/blob/main/Resources/Deliverable%20%232%20-%20School%20Summary%20DataFrame.jpg)
 
 **3. The top 5 performing schools, based on the overall passing rate.**
 **4. The bottom 5 performing schools, based on the overall passing rate.**
@@ -121,14 +121,14 @@ Image with code below.
 
 **Code and Image**
 
-![name-of-you-image]https://github.com/ZZaman1989/School_District_Analysis/blob/main/Resources/Deliverable%20%232%20-%20Top%205%20%26%20Bottom%205.jpg
+![name-of-you-image](https://github.com/ZZaman1989/School_District_Analysis/blob/main/Resources/Deliverable%20%232%20-%20Top%205%20%26%20Bottom%205.jpg)
 
 **5. The average math score for each grade level from each school.**
 Image with code below.
 
 **Code and Image**
 
-![name-of-you-image]https://github.com/ZZaman1989/School_District_Analysis/blob/main/Resources/Deliverable%20%232%20-%20Math%20Scores.jpg
+![name-of-you-image](https://github.com/ZZaman1989/School_District_Analysis/blob/main/Resources/Deliverable%20%232%20-%20Math%20Scores.jpg)
 
 **6. The average reading score for each grade level from each school.**
 
@@ -136,7 +136,7 @@ Image with code below.
 
 **Code and Image**
 
-![name-of-you-image]https://github.com/ZZaman1989/School_District_Analysis/blob/main/Resources/Deliverable%20%232%20-%20Reading%20Scores.jpg
+![name-of-you-image](https://github.com/ZZaman1989/School_District_Analysis/blob/main/Resources/Deliverable%20%232%20-%20Reading%20Scores.jpg)
 
 **7. The scores by school spending per student.**
 
@@ -144,7 +144,7 @@ Image with code below.
 
 **Code and Image**
 
-![name-of-you-image]https://github.com/ZZaman1989/School_District_Analysis/blob/main/Resources/Deliverable%20%232%20-%20scores%20by%20school%20spending%20per%20student.jpg
+![name-of-you-image](https://github.com/ZZaman1989/School_District_Analysis/blob/main/Resources/Deliverable%20%232%20-%20scores%20by%20school%20spending%20per%20student.jpg)
 
 **8. The scores by school size.**
 
@@ -152,7 +152,7 @@ Image with code below.
 
 **Code and Image**
 
-![name-of-you-image]https://github.com/ZZaman1989/School_District_Analysis/blob/main/Resources/Deliverable%20%232%20-%20scores%20by%20school%20size.jpg
+![name-of-you-image](https://github.com/ZZaman1989/School_District_Analysis/blob/main/Resources/Deliverable%20%232%20-%20scores%20by%20school%20size.jpg)
 
 **8. The scores by school type.**
 
@@ -160,7 +160,7 @@ Image with code below.
 
 **Code and Image**
 
-![name-of-you-image]https://github.com/ZZaman1989/School_District_Analysis/blob/main/Resources/Deliverable%20%232%20-%20scores%20by%20school%20type.jpg
+![name-of-you-image](https://github.com/ZZaman1989/School_District_Analysis/blob/main/Resources/Deliverable%20%232%20-%20scores%20by%20school%20type.jpg)
 
 
 ## Deliverable 3: A Written Report for the School District Analysis
@@ -175,7 +175,7 @@ The analysis should contain the following:
 ### How is the district summary affected?
 > There were a minor neglible changes.  Please see image below of PyCityschools_ Challenge vs PyCitySchools
 
-![name-of-you-image]https://github.com/ZZaman1989/School_District_Analysis/blob/main/Resources/Dev%20%233%20Distract%20Summary%20affected.jpg
+![name-of-you-image](https://github.com/ZZaman1989/School_District_Analysis/blob/main/Resources/Dev%20%233%20Distract%20Summary%20affected.jpg)
 
 ### How is the school summary affected?
 > Overall order changed due to removing 9th graders from Thomas High School.
@@ -202,4 +202,4 @@ The analysis should contain the following:
         - Thomas High School is in the "CHARTER" type
         
 3. **Summary:**
-The Average Math & Reading scores, % Passing Math and Reading scores, Overall Passing marks changes, changes that are reflected in the funding for each student. 
+Changes that are reflected in the funding for each student, percentage passing math and reading scores, the avg math & reading scores, overall passing marks changes.
